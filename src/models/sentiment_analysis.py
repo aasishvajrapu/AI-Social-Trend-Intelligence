@@ -7,7 +7,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="trend_intelligence",
     user="postgres",
-    password="Aasish@29",
+    password="enter your password here",
     port="5432"
 )
 
